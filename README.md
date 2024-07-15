@@ -17,6 +17,6 @@ To run this project locally, follow these steps:
    git clone https://github.com/florinmitrana/NetflixLandingPage.git
 2.**Navigate to the project directory**
   ```sh
- cd netflix-clone
+   cd netflix-clone
 ```
 3.**Open the index.html file in a web browser**
